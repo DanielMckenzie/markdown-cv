@@ -39,10 +39,25 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2021` Liggett Instructor Award.
 
-Associate, *French Academy of Science*, Paris, France
+`2019` William Armor Wills Memorial Scholarship.
+
+`2017` University Outstanding Teaching Assistant Award.
+
+`2014-2016` NRF Doctoral Scholarship for Study Abroad.
+
+`2013` DAAD Short Term Research Exchange *(to University of Bayreuth)*.
+
+`2012` [DAAD](https://en.wikipedia.org/wiki/German_Academic_Exchange_Service)-NRF Joint Masters Bursary.
+
+`2010` UCT Council Merit Scholarship.
+
+`2010` [NRF](https://en.wikipedia.org/wiki/National_Research_Foundation_(South_Africa) Honours Bursary.
+
+`2009` Jakob Burlak Memorial Trust Scholarship.
+
+`2007,2008,2009` UCT Science Faculty Scholarship.
 
 
 
