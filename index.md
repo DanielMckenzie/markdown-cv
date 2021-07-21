@@ -1,23 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniel McKenzie's CV
 ---
 # Daniel McKenzie
 Applied Mathematician.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mckenzie@math.ucla.edu">mckenzie@math.ucla.edu</a>
+| <a href="danielmckenzie.github.io">My web page</a>
 </div>
 
 
-## Currently
+## Positions
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2019-present` Assistant Adjunct Professor (i.e. postdoc), __University of California, Los Angeles__
 
 
 ### Research interests
