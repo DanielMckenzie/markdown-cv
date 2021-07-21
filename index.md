@@ -3,7 +3,7 @@ layout: cv
 title: Daniel McKenzie's CV
 ---
 # Daniel McKenzie
-Applied Mathematician.
+Applied Math and ML.
 
 <div id="webaddress">
 <a href="mckenzie@math.ucla.edu">mckenzie@math.ucla.edu</a>
@@ -13,7 +13,7 @@ Applied Mathematician.
 
 ## Positions
 
-`2019-present` Assistant Adjunct Professor (i.e. postdoc), __University of California, Los Angeles__
+`2019-present`  __University of California, Los Angeles__. Assistant Adjunct Professor (i.e. postdoc).
 
 
 ## Research interests
@@ -110,29 +110,29 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ## Teaching
 
-`2021` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
+`2021` __Math 151BH.__ Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
 
-`2021` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(I also co-developed this course).*
+`2021` __Math 151AH.__ Honors Applied Numerical Methods I, UCLA. *(I also co-developed this course).*
 
-`2020-present` Math 118: Mathematical Methods of Data Theory, UCLA. *(taught three times. I also co-developed this course).*
+`2020-present` __Math 118.__ Mathematical Methods of Data Theory, UCLA. *(taught three times. I also co-developed this course).*
 
-`2020` Math 170S: Statistics, UCLA.
+`2020` __Math 170S.__ Statistics, UCLA.
 
-`2019` Math 151A: Applied Numerical Methods, UCLA.
+`2019` __Math 151A.__ Applied Numerical Methods, UCLA.
 
-`2019` Math 32A: Calculus III, UCLA.
+`2019` __Math 32A.__ Calculus III, UCLA.
 
-`2015-2019` Math2250: Calculus I, UGA. *(taught three times).*
+`2015-2019` __Math2250.__ Calculus I, UGA. *(taught three times).*
 
-`2014-2018` Math1113: Precalculus, UGA. *(taught six times).*
+`2014-2018` __Math1113.__ Precalculus, UGA. *(taught six times).*
 
 ## Service
 
 ### Organization
 
-`2021` *Exploiting structure in zeroth-order optimization.* Workshop at INFORMS2021.
+`2021` __Exploiting structure in zeroth-order optimization.__ Workshop at INFORMS2021.
 
-`2020` *ZOOM: Zeroth Order Online Meeting.* (Online) mini-conference.
+`2020` __ZOOM: Zeroth Order Online Meeting.__ (Online) mini-conference.
 
 ### Undergrad. Students Mentored
 
