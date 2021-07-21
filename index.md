@@ -23,8 +23,8 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007-2010`
+__The University of Cape Town, South Africa.__ B.Sc _(with distinction)_
 
 `June 1661 - now`
 __Trinity College, Cambridge__
