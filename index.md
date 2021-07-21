@@ -89,7 +89,26 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2020` *Balancing geometry and density: Path distances on high-dimensional data* With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/)
 
+## Service
 
-### Footer
+### Organization
 
-Last updated: July 2021
+`2021` *Exploiting structure in zeroth-order optimization.* Workshop at INFORMS2021.
+
+`2020` *ZOOM: Zeroth Order Online Meeting.* (Online) mini-conference.
+
+### Undergraduate Students Mentored
+
+`2021` Isha Slavin (UCLA), Allen Zou (UCSD).
+
+`2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa),  Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
+
+`2018` Lucas Connell (UGA).
+
+### Graduate Students Mentored
+
+`2019-present` Howard Heaton, Bumsu Kim.  
+
+<!--### Footer
+
+Last updated: July 2021 -->
