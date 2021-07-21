@@ -7,7 +7,7 @@ Applied Mathematician.
 
 <div id="webaddress">
 <a href="mckenzie@math.ucla.edu">mckenzie@math.ucla.edu</a>
-| <a href="danielmckenzie.github.io">My web page</a>
+| <a href="https://danielmckenzie.github.io">My web page</a>
 </div>
 
 
@@ -25,7 +25,7 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 `2013-2019` __The University of Georgia, USA.__ PhD. Advisor: <a href = "https://en.wikipedia.org/wiki/Ming-Jun_Lai">Ming-Jun Lai</a>. Dissertation title: *Efficient graph clustering algorithms using compressive sensing*
 
-`2013/03-2013/06` __The University of Bayreuth, Germany.__ Short term visitor. Host: [Fabrizio Catanese](https://scholar.google.com/citations?hl=en&user=pHmYiMUAAAAJ&view_op=list_works&sortby=pubdate)
+`03/2013-06/2013` __The University of Bayreuth, Germany.__ Short term visitor. Host: [Fabrizio Catanese](https://scholar.google.com/citations?hl=en&user=pHmYiMUAAAAJ&view_op=list_works&sortby=pubdate)
 
 `2011-2013`
 __The University of Cape Town, South Africa.__ M.Sc *(with distinction)*.
@@ -134,7 +134,7 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2020` *ZOOM: Zeroth Order Online Meeting.* (Online) mini-conference.
 
-### Undergraduate Students Mentored
+### Undergrad. Students Mentored
 
 `2021` Isha Slavin (UCLA), Allen Zou (UCSD).
 
