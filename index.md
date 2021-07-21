@@ -68,6 +68,7 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 ### Journals
 
 `2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. With [Ming-Jun Lai](https://en.wikipedia.org/wiki/Ming-Jun_Lai)
+
 `2019` *Power weighted shortest paths for clustering Euclidean data.* Foundations of Data Science. With [Steve Damelin](http://www-personal.umich.edu/~damelin/)
 
 ### Conferences
@@ -78,29 +79,17 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Submitted
 
+`2021` *Learn to predict equilibria via Fixed Point Networks*. With Howard Heaton, Qiuwei Li, Samy Wu Fung, Stanley Osher and Wotao Yin.
+
+`2021` *Fixed Point Networks: Implicit depth models with Jacobian-free backprop.* With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
+
 `2020` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling*. With HanQin Cai, Wotao Yin and Zhenliang Zhang.
 
 `2020` *A one-bit, comparison-based gradient estimator* With HanQin Cai, Wotao Yin and Zhenliang Zhang.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2020` *Balancing geometry and density: Path distances on high-dimensional data*
 
 
-## Occupation
+ ### Footer
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: July 2021
