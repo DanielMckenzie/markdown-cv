@@ -23,7 +23,7 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 ## Education
 
-`2013-2019` __The University of Georgia, USA.__ PhD. Advisor: Ming-Jun Lai. Dissertation title: *Efficient graph clustering algorithms using compressive sensing*
+`2013-2019` __The University of Georgia, USA.__ PhD. Advisor: <a href = "https://en.wikipedia.org/wiki/Ming-Jun_Lai">Ming-Jun Lai</a>. Dissertation title: *Efficient graph clustering algorithms using compressive sensing*
 
 `2013/03-2013/06` __The University of Bayreuth, Germany.__ Short term visitor
 
@@ -53,7 +53,7 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2010` UCT Council Merit Scholarship.
 
-`2010` [NRF](https://en.wikipedia.org/wiki/National_Research_Foundation_(South_Africa) Honours Bursary.
+`2010` [NRF](https://en.wikipedia.org/wiki/National_Research_Foundation_(South_Africa)) Honours Bursary.
 
 `2009` Jakob Burlak Memorial Trust Scholarship.
 
@@ -63,17 +63,24 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+ A list is also available [online](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en)
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
+`2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. With [Ming-Jun Lai](https://en.wikipedia.org/wiki/Ming-Jun_Lai)
+`2019` *Power weighted shortest paths for clustering Euclidean data.* Foundations of Data Science. With [Steve Damelin](http://www-personal.umich.edu/~damelin/)
 
-`1669`
-Lectiones opticæ.
+### Conferences
 
-etc. etc. etc.
+`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML. With HanQin Cai, Yuchen Lou and Wotao Yin.
+
+`2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian, William Gilroy, Veronica Kirgios, Xia Li, Carolina Matuk, P. Jeffrey Brantingham and Andrea Bertozzie.  
+
+### Submitted
+
+`2020` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling*. With HanQin Cai, Wotao Yin and Zhenliang Zhang.
+
+`2020` *A one-bit, comparison-based gradient estimator* With HanQin Cai, Wotao Yin and Zhenliang Zhang.
 
 ### Patents
 
