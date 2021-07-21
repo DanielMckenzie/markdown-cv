@@ -25,11 +25,11 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 `2013-2019` __University of Georgia, USA.__ PhD. Advisor: <a href = "https://en.wikipedia.org/wiki/Ming-Jun_Lai">Ming-Jun Lai</a>. Dissertation title: *Efficient graph clustering algorithms using compressive sensing*
 
-`03/2013-06/2013` __University of Bayreuth, Germany.__ Short term visitor. Host: [Fabrizio Catanese](https://scholar.google.com/citations?hl=en&user=pHmYiMUAAAAJ&view_op=list_works&sortby=pubdate)
+`03/2013-06/2013` __University of Bayreuth, Germany.__ Short term visitor. <!--Host: [Fabrizio Catanese](https://scholar.google.com/citations?hl=en&user=pHmYiMUAAAAJ&view_op=list_works&sortby=pubdate)-->
 
 `2011-2013`
 __University of Cape Town, South Africa.__ M.Sc *(with distinction)*.
-Advisors: Dr. K. Hughes, Dr. R. Martin
+Advisors: Ken Hughes, Rob Martin
 Thesis title: On uniformization of compact Kahler manifolds with negative first Chern class by bounded symmetric domains.
 
 `2007-2010`
