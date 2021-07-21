@@ -29,7 +29,7 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 `2011-2013`
 __University of Cape Town, South Africa.__ M.Sc *(with distinction)*.
-Advisors: Ken Hughes, Rob Martin
+Advisors: Ken Hughes, Rob Martin.
 Thesis title: On uniformization of compact Kahler manifolds with negative first Chern class by bounded symmetric domains.
 
 `2007-2010`
