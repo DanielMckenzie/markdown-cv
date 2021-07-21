@@ -23,18 +23,15 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 ## Education
 
+`March,2013-June,2013` __The University of Bayreuth, Germany.__ Short term visitor
+
+`2011-2013`
+__The University of Cape Town, South Africa.__ M.Sc *(with distinction)*
+Advisors: Dr. K. Hughes, Dr. R. Martin
+Thesis title: On uniformization of compact Kahler manifolds with negative first Chern class by bounded symmetric domains.
+
 `2007-2010`
-__The University of Cape Town, South Africa.__ B.Sc _(with distinction)_
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+__The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 
 
