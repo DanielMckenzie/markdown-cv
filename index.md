@@ -23,10 +23,12 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 ## Education
 
-`March,2013-June,2013` __The University of Bayreuth, Germany.__ Short term visitor
+`2013-2019` __The University of Georgia, USA.__ PhD. Advisor: Ming-Jun Lai. Dissertation title: *Efficient graph clustering algorithms using compressive sensing*
+
+`2013/03-2013/06` __The University of Bayreuth, Germany.__ Short term visitor
 
 `2011-2013`
-__The University of Cape Town, South Africa.__ M.Sc *(with distinction)*
+__The University of Cape Town, South Africa.__ M.Sc *(with distinction)*.
 Advisors: Dr. K. Hughes, Dr. R. Martin
 Thesis title: On uniformization of compact Kahler manifolds with negative first Chern class by bounded symmetric domains.
 
