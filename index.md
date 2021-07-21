@@ -25,7 +25,7 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 `2013-2019` __The University of Georgia, USA.__ PhD. Advisor: <a href = "https://en.wikipedia.org/wiki/Ming-Jun_Lai">Ming-Jun Lai</a>. Dissertation title: *Efficient graph clustering algorithms using compressive sensing*
 
-`2013/03-2013/06` __The University of Bayreuth, Germany.__ Short term visitor
+`2013/03-2013/06` __The University of Bayreuth, Germany.__ Short term visitor. Host: [Fabrizio Catanese](https://scholar.google.com/citations?hl=en&user=pHmYiMUAAAAJ&view_op=list_works&sortby=pubdate)
 
 `2011-2013`
 __The University of Cape Town, South Africa.__ M.Sc *(with distinction)*.
@@ -63,33 +63,33 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ## Publications
 
- A list is also available [online](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en)
+ A list is also available [online](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en). *= undergraduate coauthor.
 
 ### Journals
 
-`2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. With [Ming-Jun Lai](https://en.wikipedia.org/wiki/Ming-Jun_Lai)
+`2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. With Ming-Jun Lai.
 
 `2019` *Power weighted shortest paths for clustering Euclidean data.* Foundations of Data Science. With [Steve Damelin](http://www-personal.umich.edu/~damelin/)
 
 ### Conferences
 
-`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML. With HanQin Cai, Yuchen Lou and Wotao Yin.
+`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML. With [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\* and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin).
 
-`2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian, William Gilroy, Veronica Kirgios, Xia Li, Carolina Matuk, P. Jeffrey Brantingham and Andrea Bertozzie.  
+`2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi).  
 
 ### Submitted
 
-`2021` *Learn to predict equilibria via Fixed Point Networks*. With Howard Heaton, Qiuwei Li, Samy Wu Fung, Stanley Osher and Wotao Yin.
+`2021` *Learn to predict equilibria via Fixed Point Networks*. With [Howard Heaton](https://howardheaton.tech/), [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/), [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
 `2021` *Fixed Point Networks: Implicit depth models with Jacobian-free backprop.* With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
 
-`2020` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling*. With HanQin Cai, Wotao Yin and Zhenliang Zhang.
+`2020` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling*. With HanQin Cai, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en).
 
 `2020` *A one-bit, comparison-based gradient estimator* With HanQin Cai, Wotao Yin and Zhenliang Zhang.
 
-`2020` *Balancing geometry and density: Path distances on high-dimensional data*
+`2020` *Balancing geometry and density: Path distances on high-dimensional data* With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/)
 
 
- ### Footer
+### Footer
 
 Last updated: July 2021
