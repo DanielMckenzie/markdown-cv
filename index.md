@@ -16,9 +16,9 @@ Applied Mathematician.
 `2019-present` Assistant Adjunct Professor (i.e. postdoc), __University of California, Los Angeles__
 
 
-### Research interests
+## Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning, Signal Processing and Optimization. More specifically; zeroth-order optimization and applications, data-driven metrics on high-dimensional point clouds and implicit depth neural networks.
 
 
 ## Education
