@@ -89,6 +89,25 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2020` *Balancing geometry and density: Path distances on high-dimensional data.* With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/)
 
+
+## Invited Talks
+
+`10/2021` __INFORMS2021: Recent Advances in Derivative-free Optimization__. Anaheim, CA.
+
+`07/2021` __SIAM OP21: Optimization, Data Science and their Applications__. (online).
+
+`06/2021` __Optimal Transport and Mean Field Games Seminar__. (online).
+
+`11/2020` __INFORMS2020: Session on Recent Progress in Blackbox Optimization__. (online).  
+
+`04/2020` __Tufts Math of Data Science Lecture Series__. (online)
+
+`02/2020` __UGA Applied Math Seminar__. Athens, GA.
+
+`09/2019` __SIAM South-Eastern Sectional__. Knoxville, TN.
+
+`10/2018` __AMS Central Sectional__. Ann Arbor, MI.
+
 ## Teaching
 
 `2021` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
@@ -123,9 +142,17 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2018` Lucas Connell (UGA).
 
+### Outreach
+
+`2011-2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
+
 ### Graduate Students Mentored
 
 `2019-present` Howard Heaton, Bumsu Kim.  
+
+## Skills
+
+Proficient in Python, Matlab, LaTeX, Markdown and PyTorch.
 
 <!--### Footer
 
