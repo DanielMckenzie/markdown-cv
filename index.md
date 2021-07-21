@@ -83,11 +83,29 @@ __The University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2021` *Fixed Point Networks: Implicit depth models with Jacobian-free backprop.* With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
 
-`2020` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling*. With HanQin Cai, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en).
+`2020` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling.* With HanQin Cai, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en).
 
-`2020` *A one-bit, comparison-based gradient estimator* With HanQin Cai, Wotao Yin and Zhenliang Zhang.
+`2020` *A one-bit, comparison-based gradient estimator.* With HanQin Cai, Wotao Yin and Zhenliang Zhang.
 
-`2020` *Balancing geometry and density: Path distances on high-dimensional data* With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/)
+`2020` *Balancing geometry and density: Path distances on high-dimensional data.* With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/)
+
+## Teaching
+
+`2021` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
+
+`2021` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(I also co-developed this course).*
+
+`2020-present` Math 118: Mathematical Methods of Data Theory, UCLA. *(taught three times. I also co-developed this course).*
+
+`2020` Math 170S: Statistics, UCLA.
+
+`2019` Math 151A: Applied Numerical Methods, UCLA.
+
+`2019` Math 32A: Calculus III, UCLA.
+
+`2015-2019` Math2250: Calculus I, UGA. *(taught three times).*
+
+`2014-2018` Math1113: Precalculus, UGA. *(taught six times).*
 
 ## Service
 
