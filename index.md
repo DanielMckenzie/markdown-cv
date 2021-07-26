@@ -110,6 +110,8 @@ All talks invited unless otherwise stated.
 
 `09/2019` __SIAM South-Eastern Sectional__. Knoxville, TN.
 
+`05/2018` __International Conference on Computational Harmonic Analysis (ICCHA7)__. Nashville, TN. *(contributed)*
+
 `10/2018` __AMS Central Sectional__. Ann Arbor, MI.
 
 ## Teaching
@@ -156,7 +158,7 @@ All talks invited unless otherwise stated.
 
 ## Skills
 
-Proficient in Python, Matlab, LaTeX, Markdown and PyTorch.
+Proficient in Python (specifically: NumPy, SciKitLearn and PyTorch), Matlab, LaTeX and Markdown.
 
 <!--### Footer
 
