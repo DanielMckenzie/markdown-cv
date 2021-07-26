@@ -25,7 +25,7 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 `2013-2019` __University of Georgia, USA.__ PhD. Advisor: <a href = "https://en.wikipedia.org/wiki/Ming-Jun_Lai">Ming-Jun Lai</a>. Dissertation title: *Efficient graph clustering algorithms using compressive sensing*
 
-`03/2013-06/2013` __University of Bayreuth, Germany.__ Short term visitor. <!--Host: [Fabrizio Catanese](https://scholar.google.com/citations?hl=en&user=pHmYiMUAAAAJ&view_op=list_works&sortby=pubdate)-->
+`03/2013-06/2013` __University of Bayreuth, Germany.__ Short term visitor. Host: [Fabrizio Catanese](https://scholar.google.com/citations?hl=en&user=pHmYiMUAAAAJ&view_op=list_works&sortby=pubdate)
 
 `2011-2013`
 __University of Cape Town, South Africa.__ M.Sc *(with distinction)*.
@@ -90,17 +90,21 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 `2020` *Balancing geometry and density: Path distances on high-dimensional data.* With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/)
 
 
-## Invited Talks
+## Talks
+
+All talks invited unless otherwise stated.
 
 `10/2021` __INFORMS2021: Recent Advances in Derivative-free Optimization__. Anaheim, CA.
 
-`07/2021` __SIAM OP21: Optimization, Data Science and their Applications__. (online).
+`08/2021` __Mathematics of Machine Learning__. Online. *(contributed)*
 
-`06/2021` __Optimal Transport and Mean Field Games Seminar__. (online).
+`07/2021` __SIAM OP21: Optimization, Data Science and their Applications__. Online.
+
+`06/2021` __Optimal Transport and Mean Field Games Seminar__. Online.
 
 `11/2020` __INFORMS2020: Session on Recent Progress in Blackbox Optimization__. (online).  
 
-`04/2020` __Tufts Math of Data Science Lecture Series__. (online)
+`04/2020` __Tufts Math of Data Science Lecture Series__. Online.
 
 `02/2020` __UGA Applied Math Seminar__. Athens, GA.
 
@@ -136,7 +140,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Undergrad. Students Mentored
 
-`2021` Isha Slavin (UCLA), Allen Zou (UCSD).
+`2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.) Isha Slavin (UCLA), Allen Zou (UCSD).
 
 `2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa),  Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
 
