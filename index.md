@@ -142,7 +142,7 @@ All talks invited unless otherwise stated.
 
 ### Undergrad. Students Mentored
 
-`2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.) Isha Slavin (UCLA), Allen Zou (UCSD).
+`2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.), Isha Slavin (UCLA), Allen Zou (UCSD).
 
 `2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa),  Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
 
