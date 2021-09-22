@@ -67,6 +67,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
+`2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS (to appear.) With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/)
+
 `2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. With Ming-Jun Lai.
 
 `2019` *Power weighted shortest paths for clustering Euclidean data.* Foundations of Data Science. With [Steve Damelin](http://www-personal.umich.edu/~damelin/)
@@ -86,8 +88,6 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 `2020` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling.* With HanQin Cai, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en).
 
 `2020` *A one-bit, comparison-based gradient estimator.* With HanQin Cai, Wotao Yin and Zhenliang Zhang.
-
-`2020` *Balancing geometry and density: Path distances on high-dimensional data.* With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/)
 
 
 ## Talks
