@@ -25,7 +25,7 @@ Machine Learning, Signal Processing and Optimization. More specifically; zeroth-
 
 `2013-2019` __University of Georgia, USA.__ PhD. Advisor: <a href = "https://en.wikipedia.org/wiki/Ming-Jun_Lai">Ming-Jun Lai</a>. Dissertation title: *Efficient graph clustering algorithms using compressive sensing*
 
-`03/2013-06/2013` __University of Bayreuth, Germany.__ Short term visitor. Host: [Fabrizio Catanese](https://scholar.google.com/citations?hl=en&user=pHmYiMUAAAAJ&view_op=list_works&sortby=pubdate)
+`03/2013-06/2013` __University of Bayreuth, Germany.__ Short term visitor. <!---Host: [Fabrizio Catanese](https://scholar.google.com/citations?hl=en&user=pHmYiMUAAAAJ&view_op=list_works&sortby=pubdate)--->
 
 `2011-2013`
 __University of Cape Town, South Africa.__ M.Sc *(with distinction)*.
@@ -80,6 +80,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 `2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi).  
 
 ### Submitted
+
+`2021`*Curvature-Aware Derivative-Free Optimization* With [Bumsu Kim](https://www.bumsu.kim/), HanQin Cai and Wotao Yin.
 
 `2021` *Learn to predict equilibria via Fixed Point Networks*. With [Howard Heaton](https://howardheaton.tech/), [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/), [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
