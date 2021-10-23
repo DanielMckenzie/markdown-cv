@@ -45,15 +45,15 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2017` University Outstanding Teaching Assistant Award.
 
-`2014-2016` NRF Doctoral Scholarship for Study Abroad.
+`2014-2016` [NRF](https://en.wikipedia.org/wiki/National_Research_Foundation_(South_Africa)) Doctoral Scholarship for Study Abroad.
 
-`2013` DAAD Short Term Research Exchange *(to University of Bayreuth)*.
+`2013` [DAAD](https://en.wikipedia.org/wiki/German_Academic_Exchange_Service) Short Term Research Exchange *(to University of Bayreuth)*.
 
-`2012` [DAAD](https://en.wikipedia.org/wiki/German_Academic_Exchange_Service)-NRF Joint Masters Bursary.
+`2012` DAAD-NRF Joint Masters Bursary.
 
 `2010` UCT Council Merit Scholarship.
 
-`2010` [NRF](https://en.wikipedia.org/wiki/National_Research_Foundation_(South_Africa)) Honours Bursary.
+`2010` NRF Honours Bursary.
 
 `2009` Jakob Burlak Memorial Trust Scholarship.
 
@@ -97,51 +97,51 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 All talks invited unless otherwise stated.
 
-`10/2021` __INFORMS2021: Recent Advances in Derivative-free Optimization__. Anaheim, CA.
+`10/2021` INFORMS2021: Recent Advances in Derivative-free Optimization. Anaheim, CA.
 
-`08/2021` __Mathematics of Machine Learning__. Online. *(contributed)*
+`08/2021` Mathematics of Machine Learning. Online. *(contributed)*
 
-`07/2021` __SIAM OP21: Optimization, Data Science and their Applications__. Online.
+`07/2021` SIAM OP21: Optimization, Data Science and their Applications. Online.
 
-`06/2021` __Optimal Transport and Mean Field Games Seminar__. Online.
+`06/2021` Optimal Transport and Mean Field Games Seminar. Online.
 
-`11/2020` __INFORMS2020: Session on Recent Progress in Blackbox Optimization__. (online).  
+`11/2020` INFORMS2020: Session on Recent Progress in Blackbox Optimization. Online.  
 
-`04/2020` __Tufts Math of Data Science Lecture Series__. Online.
+`04/2020` Tufts Math of Data Science Lecture Series. Online.
 
-`02/2020` __UGA Applied Math Seminar__. Athens, GA.
+`02/2020` UGA Applied Math Seminar. Athens, GA.
 
-`09/2019` __SIAM South-Eastern Sectional__. Knoxville, TN.
+`09/2019` SIAM South-Eastern Sectional. Knoxville, TN.
 
-`05/2018` __International Conference on Computational Harmonic Analysis (ICCHA7)__. Nashville, TN. *(contributed)*
+`05/2018` International Conference on Computational Harmonic Analysis (ICCHA7). Nashville, TN. *(contributed)*
 
-`10/2018` __AMS Central Sectional__. Ann Arbor, MI.
+`10/2018` AMS Central Sectional. Ann Arbor, MI.
 
 ## Teaching
 
-`2021` __Math 151BH.__ Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
+`2021` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
 
-`2021` __Math 151AH.__ Honors Applied Numerical Methods I, UCLA. *(I also co-developed this course).*
+`2021` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(I also co-developed this course).*
 
-`2020-present` __Math 118.__ Mathematical Methods of Data Theory, UCLA. *(taught three times. I also co-developed this course).*
+`2020-present` Math 118: Mathematical Methods of Data Theory, UCLA. *(taught three times. I also co-developed this course).*
 
-`2020` __Math 170S.__ Statistics, UCLA.
+`2020` Math 170S: Statistics, UCLA.
 
-`2019` __Math 151A.__ Applied Numerical Methods, UCLA.
+`2019` Math 151A: Applied Numerical Methods I, UCLA.
 
-`2019` __Math 32A.__ Calculus III, UCLA.
+`2019` Math 32A: Calculus III, UCLA.
 
-`2015-2019` __Math2250.__ Calculus I, UGA. *(taught three times).*
+`2015-2019` Math2250: Calculus I, UGA. *(taught three times).*
 
-`2014-2018` __Math1113.__ Precalculus, UGA. *(taught six times).*
+`2014-2018` Math1113: Precalculus, UGA. *(taught six times).*
 
 ## Service
 
 ### Organization
 
-`2021` __Exploiting structure in zeroth-order optimization.__ Workshop at INFORMS2021.
+`2021` *Exploiting structure in zeroth-order optimization.* Workshop at INFORMS2021.
 
-`2020` __ZOOM: Zeroth Order Online Meeting.__ (Online) mini-conference.
+`2020` *ZOOM: Zeroth Order Online Meeting.* (Online) mini-conference.
 
 ### Undergrad. Students Mentored
 
@@ -157,9 +157,12 @@ All talks invited unless otherwise stated.
 
 ### Outreach
 
-`2020` [CSST Mentor](https://www.csst.ucla.edu/summer-program-csst). The resulting paper was presented at ICML.
+`2020` [CSST](https://www.csst.ucla.edu/summer-program-csst) Mentor. The resulting paper was presented at ICML.
+
 `2020` UCLA REU Mentor. The resulting paper was presented at [IEEE Big Data 2020](https://ieeexplore.ieee.org/abstract/document/9378079/authors#authors)
+
 `2018` [UGA MathCamp](https://torsor.github.io/mathcamp/). I mentored a group of five high school students on the "Monster Epidemiology" project.
+
 `2011-2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
 
 ## Skills
