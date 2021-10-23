@@ -18,7 +18,7 @@ Applied Math and ML.
 
 ## Research interests
 
-Machine Learning, Signal Processing and Optimization. More specifically; zeroth-order optimization and applications, data-driven metrics on high-dimensional point clouds and implicit depth neural networks.
+Machine Learning, Signal Processing and Optimization. More specifically; zeroth-order optimization and applications, implicit depth neural networks, constrained optimization with non-smooth constraint sets and data-driven metrics for unsupervised learning.
 
 
 ## Education
@@ -77,9 +77,10 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML. With [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\* and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin).
 
-`2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi).  
+`2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, Tachin Ruangkriengsin\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi).  
 
 ### Submitted
+`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* With Qiuwei Li](https://www.math.ucla.edu/~qiuweili/) and Wotao Yin.
 
 `2021`*Curvature-Aware Derivative-Free Optimization* With [Bumsu Kim](https://www.bumsu.kim/), HanQin Cai and Wotao Yin.
 
@@ -146,17 +147,20 @@ All talks invited unless otherwise stated.
 
 `2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.), Isha Slavin (UCLA), Allen Zou (UCSD).
 
-`2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa),  Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
+`2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa), Tachin Ruangkriengsin (UCLA), Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
 
 `2018` Lucas Connell (UGA).
 
-### Outreach
-
-`2011-2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
-
 ### Graduate Students Mentored
 
-`2019-present` Howard Heaton, Bumsu Kim.  
+`2019-present` Howard Heaton, Bumsu Kim.
+
+### Outreach
+
+`2020` [CSST Mentor](https://www.csst.ucla.edu/summer-program-csst). The resulting paper was presented at ICML.
+`2020` UCLA REU Mentor. The resulting paper was presented at [IEEE Big Data 2020](https://ieeexplore.ieee.org/abstract/document/9378079/authors#authors)
+`2018` [UGA MathCamp](https://torsor.github.io/mathcamp/). I mentored a group of five high school students on the "Monster Epidemiology" project.
+`2011-2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
 
 ## Skills
 
