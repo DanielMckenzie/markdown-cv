@@ -80,11 +80,11 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 `2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, Tachin Ruangkriengsin\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi).  
 
 ### Submitted
-`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* With Qiuwei Li](https://www.math.ucla.edu/~qiuweili/) and Wotao Yin.
+`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* With [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/) and Wotao Yin.
 
 `2021`*Curvature-Aware Derivative-Free Optimization* With [Bumsu Kim](https://www.bumsu.kim/), HanQin Cai and Wotao Yin.
 
-`2021` *Learn to predict equilibria via Fixed Point Networks*. With [Howard Heaton](https://howardheaton.tech/), [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/), [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
+`2021` *Learn to predict equilibria via Fixed Point Networks*. With [Howard Heaton](https://howardheaton.tech/), Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
 `2021` *Fixed Point Networks: Implicit depth models with Jacobian-free backprop.* With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
 
