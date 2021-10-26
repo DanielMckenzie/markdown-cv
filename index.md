@@ -13,7 +13,7 @@ Applied Math and ML.
 
 ## Positions
 
-`2019-present`  __University of California, Los Angeles__. Assistant Adjunct Professor (i.e. postdoc).
+`2019-present`  __University of California, Los Angeles__. Assistant Adjunct Professor <!--(i.e. postdoc).-->
 
 
 ## Research interests
