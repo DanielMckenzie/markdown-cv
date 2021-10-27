@@ -18,7 +18,7 @@ Applied Math and ML.
 
 ## Research interests
 
-Machine Learning, Signal Processing and Optimization. More specifically; zeroth-order optimization and applications, implicit depth neural networks, constrained optimization with non-smooth constraint sets and data-driven metrics for unsupervised learning.
+Machine Learning, Signal Processing and Optimization. More specifically; derivative-free optimization and applications, implicit neural networks, constrained optimization with non-smooth constraint sets and data-driven metrics for unsupervised learning.
 
 
 ## Education
