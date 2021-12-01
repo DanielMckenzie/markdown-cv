@@ -77,7 +77,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Conferences
 
-`2021` *Fixed Point Networks: Implicit depth models with Jacobian-free backprop.* AAAI 2022. With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
+`2021` *JFB: Jacobian-Free Backpropagation for Implicit Networks.* AAAI 2022. With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
 
 `2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021. With [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\* and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin).
 
