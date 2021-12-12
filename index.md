@@ -77,9 +77,9 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Conferences
 
-`2022` *JFB: Jacobian-Free Backpropagation for Implicit Networks.* AAAI 2022. With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
+`2022` *JFB: Jacobian-Free Backpropagation for Implicit Networks.* AAAI 2022 (15% acceptance rate). With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
 
-`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021. With [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\* and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin).
+`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021 (22% acceptance rate). With [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\* and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin).
 
 `2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, Tachin Ruangkriengsin\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi).  
 
