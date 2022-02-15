@@ -94,7 +94,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 `2020` *A one-bit, comparison-based gradient estimator.* With HanQin Cai, Wotao Yin and Zhenliang Zhang.
 
 
-## Talks
+<!-- ## Talks
 
 All talks invited unless otherwise stated.
 
@@ -116,7 +116,7 @@ All talks invited unless otherwise stated.
 
 `05/2018` International Conference on Computational Harmonic Analysis (ICCHA7). Nashville, TN. *(contributed)*
 
-`10/2018` AMS Central Sectional. Ann Arbor, MI.
+`10/2018` AMS Central Sectional. Ann Arbor, MI. -->
 
 <!-- ## Teaching -->
 <!--
