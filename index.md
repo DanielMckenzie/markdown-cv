@@ -63,15 +63,15 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ## Publications
 
- A list is also available [online](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en). *= undergraduate coauthor. $$\alpha-\beta$$= alphabetical author ordering.
+ A list is also available [online](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en). *= undergraduate coauthor.
 
 ### Journals
 
-`2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS (to appear.) With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/) ($$\alpha-\beta$$).
+`2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS (to appear.) With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/) (*alphabetical*).
 
-`2021` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling.* SIOPT (to appear) With HanQin Cai, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) ($$\alpha-\beta$$).
+`2021` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling.* SIOPT (to appear) With HanQin Cai, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) (*alphabetical*).
 
-`2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. With Ming-Jun Lai ($$\alpha-\beta$$).
+`2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. With Ming-Jun Lai (*alphabetical*).
 
 `2019` *Power weighted shortest paths for clustering Euclidean data.* Foundations of Data Science. With [Steve Damelin](http://www-personal.umich.edu/~damelin/)
 
@@ -79,19 +79,19 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2022` *JFB: Jacobian-Free Backpropagation for Implicit Networks.* AAAI 2022 (15% acceptance rate). With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
 
-`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021 (22% acceptance rate). With [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\* and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin) ($$\alpha-\beta$$).
+`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021 (22% acceptance rate). With [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\* and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin) (*alphabetical*).
 
 `2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, Tachin Ruangkriengsin\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi).  
 
 ### Submitted
 
-`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* With [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/) and Wotao Yin ($$\alpha-\beta$$).
+`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* With [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/) and Wotao Yin (*alphabetical*).
 
 `2021`*Curvature-Aware Derivative-Free Optimization* With [Bumsu Kim](https://www.bumsu.kim/), HanQin Cai and Wotao Yin.
 
 `2021` *Learn to predict equilibria via Fixed Point Networks*. With [Howard Heaton](https://howardheaton.tech/), Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
-`2020` *A one-bit, comparison-based gradient estimator.* With HanQin Cai, Wotao Yin and Zhenliang Zhang ($$\alpha-\beta$$).
+`2020` *A one-bit, comparison-based gradient estimator.* With HanQin Cai, Wotao Yin and Zhenliang Zhang (*alphabetical*).
 
 
 <!-- ## Talks
