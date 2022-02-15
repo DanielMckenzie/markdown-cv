@@ -119,7 +119,7 @@ All talks invited unless otherwise stated.
 `10/2018` AMS Central Sectional. Ann Arbor, MI.
 
 ## Teaching
-
+<!--
 `2021` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
 
 `2021` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(I also co-developed this course).*
@@ -134,7 +134,7 @@ All talks invited unless otherwise stated.
 
 `2015-2019` Math2250: Calculus I, UGA. *(taught three times).*
 
-`2014-2018` Math1113: Precalculus, UGA. *(taught six times).*
+`2014-2018` Math1113: Precalculus, UGA. *(taught six times).* -->
 
 ## Service
 
@@ -168,7 +168,7 @@ All talks invited unless otherwise stated.
 
 ## Skills
 
-Proficient in Python (specifically: NumPy, SciKitLearn and PyTorch), Matlab, LaTeX and Markdown.
+<!-- Proficient in Python (specifically: NumPy, SciKitLearn and PyTorch), Matlab, LaTeX and Markdown. -->
 
 <!--### Footer
 
