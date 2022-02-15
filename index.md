@@ -118,7 +118,7 @@ All talks invited unless otherwise stated.
 
 `10/2018` AMS Central Sectional. Ann Arbor, MI.
 
-## Teaching
+<!-- ## Teaching -->
 <!--
 `2021` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
 
@@ -166,7 +166,7 @@ All talks invited unless otherwise stated.
 
 `2011-2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
 
-## Skills
+<!-- ## Skills -->
 
 <!-- Proficient in Python (specifically: NumPy, SciKitLearn and PyTorch), Matlab, LaTeX and Markdown. -->
 
