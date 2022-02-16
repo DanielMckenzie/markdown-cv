@@ -94,7 +94,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 `2020` *A one-bit, comparison-based gradient estimator.* With HanQin Cai, Wotao Yin and Zhenliang Zhang (*alphabetical*).
 
 
-<!-- ## Talks
+## Talks
 
 All talks invited unless otherwise stated.
 
@@ -118,8 +118,8 @@ All talks invited unless otherwise stated.
 
 `10/2018` AMS Central Sectional. Ann Arbor, MI. -->
 
-<!-- ## Teaching -->
-<!--
+## Teaching
+
 `2021` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
 
 `2021` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(I also co-developed this course).*
@@ -134,7 +134,7 @@ All talks invited unless otherwise stated.
 
 `2015-2019` Math2250: Calculus I, UGA. *(taught three times).*
 
-`2014-2018` Math1113: Precalculus, UGA. *(taught six times).* -->
+`2014-2018` Math1113: Precalculus, UGA. *(taught six times).*
 
 ## Service
 
@@ -166,9 +166,9 @@ All talks invited unless otherwise stated.
 
 `2011-2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
 
-<!-- ## Skills -->
+## Skills
 
-<!-- Proficient in Python (specifically: NumPy, SciKitLearn and PyTorch), Matlab, LaTeX and Markdown. -->
+Proficient in Python (specifically: NumPy, SciKitLearn and PyTorch), Matlab, LaTeX and Markdown.
 
 <!--### Footer
 
