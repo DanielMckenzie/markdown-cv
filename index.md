@@ -67,31 +67,31 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
-`2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS (to appear.) With [Anna Little](https://www.anna-little.com/) and [James M. Murphy](https://jmurphy.math.tufts.edu/) (*alphabetical*).
+`2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS (to appear.) [Anna Little](https://www.anna-little.com/), **Daniel McKenzie**, and [James M. Murphy](https://jmurphy.math.tufts.edu/) (*alphabetical*).
 
-`2021` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling.* SIOPT (to appear) With HanQin Cai, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) (*alphabetical*).
+`2021` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling.* SIOPT (to appear) HanQin Cai, **Daniel McKenzie**, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) (*alphabetical*).
 
-`2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. With Ming-Jun Lai (*alphabetical*).
+`2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. Ming-Jun Lai and **Daniel McKenzie** (*alphabetical*).
 
-`2019` *Power weighted shortest paths for clustering Euclidean data.* Foundations of Data Science. With [Steve Damelin](http://www-personal.umich.edu/~damelin/)
+`2019` *Power weighted shortest paths for clustering Euclidean data.* Foundations of Data Science. **Daniel McKenzie** and [Steve Damelin](http://www-personal.umich.edu/~damelin/)
 
 ### Conferences
 
-`2022` *JFB: Jacobian-Free Backpropagation for Implicit Networks.* AAAI 2022 (15% acceptance rate). With Samy Wu Fung, Howard Heaton, Qiuwei Li, Stanley Osher and Wotao Yin.
+`2022` *JFB: Jacobian-Free Backpropagation for Implicit Networks.* AAAI 2022 (15% acceptance rate). Samy Wu Fung, Howard Heaton, Qiuwei Li, **Daniel McKenzie**, Stanley Osher and Wotao Yin.
 
-`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021 (22% acceptance rate). With [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\* and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin) (*alphabetical*).
+`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021 (22% acceptance rate). [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\*, **Daniel McKenzie**, and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin) (*alphabetical*).
 
-`2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, Tachin Ruangkriengsin\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi).  
+`2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, **Daniel McKenzie**, Tachin Ruangkriengsin\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi) (*alphabetical*).
 
 ### Submitted
 
-`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* With [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/) and Wotao Yin (*alphabetical*).
+`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/), **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
 
-`2021`*Curvature-Aware Derivative-Free Optimization* With [Bumsu Kim](https://www.bumsu.kim/), HanQin Cai and Wotao Yin.
+`2021`*Curvature-Aware Derivative-Free Optimization* [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
 
-`2021` *Learn to predict equilibria via Fixed Point Networks*. With [Howard Heaton](https://howardheaton.tech/), Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
+`2021` *Learn to predict equilibria via Fixed Point Networks*. [Howard Heaton](https://howardheaton.tech/) and **Daniel McKenzie**, Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
-`2020` *A one-bit, comparison-based gradient estimator.* With HanQin Cai, Wotao Yin and Zhenliang Zhang (*alphabetical*).
+`2020` *A one-bit, comparison-based gradient estimator.* HanQin Cai, **Daniel McKenzie**, Wotao Yin and Zhenliang Zhang (*alphabetical*).
 
 
 ## Talks
