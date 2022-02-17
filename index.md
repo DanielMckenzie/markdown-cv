@@ -18,7 +18,7 @@ Applied Math and ML.
 
 ## Research interests
 
-Optimization and signal processing applied to machine learning and data science. More specifically: derivative-free optimization and applications, implicit neural networks, constrained optimization with non-smooth constraint sets and data-driven metrics for unsupervised learning.
+Optimization and signal processing applied to machine learning and data science. More specifically: zeroth-order optimization and applications, implicit neural networks, and data-driven metrics for unsupervised learning.
 
 
 ## Education
@@ -98,9 +98,13 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 All talks invited unless otherwise stated.
 
-`10/2021` INFORMS2021: Recent Advances in Derivative-free Optimization. Anaheim, CA.
+`03/2022` SIAM UQ22: Deep Learning for Optimization. Atlanta, USA
 
-`08/2021` Mathematics of Machine Learning. Online. *(contributed)*
+`03/2022` Math Machine Learning Seminar. Max Plank Institute, Germany.  
+
+`10/2021` INFORMS2021: Recent Advances in Derivative-free Optimization. Anaheim, USA.
+
+`08/2021` Mathematics of Machine Learning Conference. Bielefeld University, Germany. *(contributed)*
 
 `07/2021` SIAM OP21: Optimization, Data Science and their Applications. Online.
 
@@ -110,21 +114,21 @@ All talks invited unless otherwise stated.
 
 `04/2020` Tufts Math of Data Science Lecture Series. Online.
 
-`02/2020` UGA Applied Math Seminar. Athens, GA.
+`02/2020` UGA Applied Math Seminar. Athens, USA.
 
-`09/2019` SIAM South-Eastern Sectional. Knoxville, TN.
+`09/2019` SIAM South-Eastern Sectional. Knoxville, USA.
 
-`05/2018` International Conference on Computational Harmonic Analysis (ICCHA7). Nashville, TN. *(contributed)*
+`05/2018` International Conference on Computational Harmonic Analysis (ICCHA7). Nashville, USA. *(contributed)*
 
-`10/2018` AMS Central Sectional. Ann Arbor, MI. -->
+`10/2018` AMS Central Sectional. Ann Arbor, USA. -->
 
 ## Teaching
 
-`2021` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(I also co-developed this course).*
+`2021--present` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(Taught twice. I also co-developed this course).*
 
-`2021` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(I also co-developed this course).*
+`2021--present` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(Taught twice. I also co-developed this course).*
 
-`2020-present` Math 118: Mathematical Methods of Data Theory, UCLA. *(taught three times. I also co-developed this course).*
+`2020--present` Math 118: Mathematical Methods of Data Theory, UCLA. *(Taught four times. I also co-developed this course).*
 
 `2020` Math 170S: Statistics, UCLA.
 
@@ -148,7 +152,7 @@ All talks invited unless otherwise stated.
 
 `2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.), Isha Slavin (UCLA), Allen Zou (UCSD).
 
-`2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa), Tachin Ruangkriengsin (UCLA), Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
+`2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa), Tachin Ruangkriengsin (UCLA--> Princeton), Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
 
 `2018` Lucas Connell (UGA).
 
