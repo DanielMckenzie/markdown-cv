@@ -67,7 +67,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
-`2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS (to appear.) [Anna Little](https://www.anna-little.com/), **Daniel McKenzie**, and [James M. Murphy](https://jmurphy.math.tufts.edu/) (*alphabetical*).
+`2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS [Anna Little](https://www.anna-little.com/), **Daniel McKenzie**, and [James M. Murphy](https://jmurphy.math.tufts.edu/) (*alphabetical*).
 
 `2021` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling.* SIOPT (to appear) HanQin Cai, **Daniel McKenzie**, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) (*alphabetical*).
 
