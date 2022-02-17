@@ -120,15 +120,15 @@ All talks invited unless otherwise stated.
 
 `05/2018` International Conference on Computational Harmonic Analysis (ICCHA7). Nashville, USA. *(contributed)*
 
-`10/2018` AMS Central Sectional. Ann Arbor, USA. -->
+`10/2018` AMS Central Sectional. Ann Arbor, USA.
 
 ## Teaching
 
-`2021--present` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(Taught twice. I also co-developed this course).*
+`2021-present` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(Taught twice. I also co-developed this course).*
 
-`2021--present` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(Taught twice. I also co-developed this course).*
+`2021-present` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(Taught twice. I also co-developed this course).*
 
-`2020--present` Math 118: Mathematical Methods of Data Theory, UCLA. *(Taught four times. I also co-developed this course).*
+`2020-present` Math 118: Mathematical Methods of Data Theory, UCLA. *(Taught four times. I also co-developed this course).*
 
 `2020` Math 170S: Statistics, UCLA.
 
