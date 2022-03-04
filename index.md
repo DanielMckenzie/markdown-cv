@@ -100,7 +100,7 @@ All talks invited unless otherwise stated.
 
 `03/2022` SIAM UQ22: Deep Learning for Optimization. Atlanta, USA
 
-`03/2022` Math Machine Learning Seminar. Max Plank Institute, Germany.  
+`03/2022` Math Machine Learning Seminar. Max Planck Institute, Germany.  
 
 `10/2021` INFORMS2021: Recent Advances in Derivative-free Optimization. Anaheim, USA.
 
