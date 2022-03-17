@@ -91,6 +91,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2021` *Learn to predict equilibria via Fixed Point Networks*. [Howard Heaton](https://howardheaton.tech/) and **Daniel McKenzie**, Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
+`2020` *A one-bit, comparison-based gradient estimator.* HanQin Cai, **Daniel McKenzie**, Wotao Yin and Zhenliang Zhang (*alphabetical*).
+
 
 ## Talks
 
