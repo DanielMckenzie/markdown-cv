@@ -18,7 +18,7 @@ Applied Math and ML.
 
 ## Research interests
 
-Optimization and signal processing applied to machine learning and data science. More specifically: zeroth-order optimization and applications, implicit neural networks, and data-driven metrics for unsupervised learning.
+Optimization and signal processing applied to machine learning and data science. More specifically: zeroth-order optimization and applications, implicit neural networks, data-driven metrics for unsupervised learning, and knowledge graphs.
 
 
 ## Education
@@ -91,8 +91,6 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2021` *Learn to predict equilibria via Fixed Point Networks*. [Howard Heaton](https://howardheaton.tech/) and **Daniel McKenzie**, Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
-`2020` *A one-bit, comparison-based gradient estimator.* HanQin Cai, **Daniel McKenzie**, Wotao Yin and Zhenliang Zhang (*alphabetical*).
-
 
 ## Talks
 
@@ -122,6 +120,7 @@ All talks invited unless otherwise stated.
 
 `10/2018` AMS Central Sectional. Ann Arbor, USA.
 
+<!--
 ## Teaching
 
 `2021-present` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(Taught twice. I also co-developed this course).*
@@ -139,6 +138,7 @@ All talks invited unless otherwise stated.
 `2015-2019` Math2250: Calculus I, UGA. *(taught three times).*
 
 `2014-2018` Math1113: Precalculus, UGA. *(taught six times).*
+-->
 
 ## Service
 
