@@ -142,39 +142,9 @@ All talks invited unless otherwise stated.
 `2014-2018` Math1113: Precalculus, UGA. *(taught six times).*
 -->
 
-## Service
-
-### Organization
-
-`2021` *Exploiting structure in zeroth-order optimization.* Workshop at INFORMS2021.
-
-`2020` *ZOOM: Zeroth Order Online Meeting.* (Online) mini-conference.
-
-### Undergrad. Students Mentored
-
-`2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.), Isha Slavin (UCLA), Allen Zou (UCSD).
-
-`2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa), Tachin Ruangkriengsin (UCLA--> Princeton), Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
-
-`2018` Lucas Connell (UGA).
-
-### Graduate Students Mentored
-
-`2019-present` Howard Heaton, Bumsu Kim.
-
-### Outreach
-
-`2020` [CSST](https://www.csst.ucla.edu/summer-program-csst) Mentor. The resulting paper was presented at ICML.
-
-`2020` UCLA REU Mentor. The resulting paper was presented at [IEEE Big Data 2020](https://ieeexplore.ieee.org/abstract/document/9378079/authors#authors)
-
-`2018` [UGA MathCamp](https://torsor.github.io/mathcamp/). I mentored a group of five high school students on the "Monster Epidemiology" project.
-
-`2011-2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
-
 ## Skills
 
-Proficient in Python (specifically: NumPy, SciKitLearn and PyTorch), Matlab, LaTeX and Markdown.
+Proficient in Python (specifically: NumPy, SciKitLearn and PyTorch), Matlab, LaTeX, Git, and Markdown. Experienced in mentoring junior researchers, and in explaining technical concepts to non-technical audiences.
 
 <!--### Footer
 
