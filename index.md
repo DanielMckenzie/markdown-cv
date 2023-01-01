@@ -13,7 +13,9 @@ Applied Math and ML.
 
 ## Positions
 
-`2019-present`  __University of California, Los Angeles__. Assistant Adjunct Professor <!--(i.e. postdoc).-->
+`2022-present` __Colorado School of Mines__. Assistant Professor
+
+`2019-2022`  __University of California, Los Angeles__. Assistant Adjunct Professor <!--(i.e. postdoc).-->
 
 
 ## Research interests
@@ -85,6 +87,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Submitted
 
+`2022` *Adapting Zeroth Order Algorithms for Comparison-Based Optimization* Isha Slavin\* and **Daniel McKenzie** (*submitted to SIURO*)
+
 `2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/), **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
 
 `2021`*Curvature-Aware Derivative-Free Optimization* [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
@@ -98,7 +102,11 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 All talks invited unless otherwise stated.
 
-`03/2022` SIAM UQ22: Deep Learning for Optimization. Atlanta, USA
+`02/2023` Applied Math Seminar, UGA. Athens, USA.
+
+`09/2022` SIAM MDS: Manifold Learning and Dimensionality Reduction. San Diego, USA.
+
+`03/2022` SIAM UQ22: Deep Learning for Optimization. Atlanta, USA.
 
 `03/2022` Math Machine Learning Seminar. Max Planck Institute, Germany.  
 
@@ -124,11 +132,15 @@ All talks invited unless otherwise stated.
 
 ## Teaching
 
-`2021-present` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(Taught twice. I also co-developed this course).*
+`2023` Math 551: Computational Linear Algebra *(graduate level)*, Mines
 
-`2021-present` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(Taught twice. I also co-developed this course).*
+`2022` Math 332: Linear Algebra, Mines.
 
-`2020-present` Math 118: Mathematical Methods of Data Theory, UCLA. *(Taught four times. I also co-developed this course).*
+`2021-2022` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(Taught twice. I also co-developed this course).*
+
+`2021-2022` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(Taught twice. I also co-developed this course).*
+
+`2020-2022` Math 118: Mathematical Methods of Data Theory, UCLA. *(Taught four times. I also co-developed this course).*
 
 `2020` Math 170S: Statistics, UCLA.
 
@@ -142,7 +154,15 @@ All talks invited unless otherwise stated.
 
 ## Service
 
+### Committees
+
+`2023` *Graduate Computing Resource Committee* (chair). Mines.
+
+`2022` *CAM curriculum redesign committee.* Mines
+
 ### Organization
+
+`2022` *Learning to Optimize and Optimizing to Learn.* Session at SIAM MDS.
 
 `2021` *Exploiting structure in zeroth-order optimization.* Workshop at INFORMS2021.
 
@@ -150,7 +170,7 @@ All talks invited unless otherwise stated.
 
 ### Undergrad. Students Mentored
 
-`2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.), Isha Slavin (UCLA), Allen Zou (UCSD).
+`2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.), Isha Slavin (UCLA --> NYU), Allen Zou (UCSD --> Lawrence Berkeley National Lab.).
 
 `2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa), Tachin Ruangkriengsin (UCLA--> Princeton), Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
 
