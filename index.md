@@ -69,9 +69,11 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
-`2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS [Anna Little](https://www.anna-little.com/), **Daniel McKenzie**, and [James M. Murphy](https://jmurphy.math.tufts.edu/) (*alphabetical*).
+`2022` *A one-bit, comparison-based gradient estimator.* ACHA. [HanQin Cai](https://hqcai.org/), **Daniel McKenzie**, [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin) and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) (*alphabetical*).
 
-`2021` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling.* SIOPT (to appear) HanQin Cai, **Daniel McKenzie**, Wotao Yin and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) (*alphabetical*).
+`2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS. [Anna Little](https://www.anna-little.com/), **Daniel McKenzie**, and [James M. Murphy](https://jmurphy.math.tufts.edu/) (*alphabetical*).
+
+`2021` *Zeroth-order regularized optimization (ZORO): Approximately sparse gradients and adaptive sampling.* SIOPT. HanQin Cai, **Daniel McKenzie**, Wotao Yin and Zhenliang Zhang (*alphabetical*).
 
 `2020` *Compressive sensing for cut improvement and local clustering.* SIMODS. Ming-Jun Lai and **Daniel McKenzie** (*alphabetical*).
 
@@ -79,9 +81,9 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Conferences
 
-`2022` *JFB: Jacobian-Free Backpropagation for Implicit Networks.* AAAI 2022 (15% acceptance rate). Samy Wu Fung, Howard Heaton, Qiuwei Li, **Daniel McKenzie**, Stanley Osher and Wotao Yin.
+`2022` *JFB: Jacobian-Free Backpropagation for Implicit Networks.* AAAI 2022 (15% acceptance rate). [Samy Wu Fung](https://swufung.github.io/), [Howard Heaton](https://research.typal.llc/), [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/), **Daniel McKenzie**, [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
-`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021 (22% acceptance rate). [HanQin Cai](https://www.math.ucla.edu/~hqcai/), Yuchen Lou\*, **Daniel McKenzie**, and [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin) (*alphabetical*).
+`2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021 (22% acceptance rate). HanQin Cai, Yuchen Lou\*, **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
 
 `2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, **Daniel McKenzie**, Tachin Ruangkriengsin\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi) (*alphabetical*).
 
@@ -89,13 +91,15 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2022` *Adapting Zeroth Order Algorithms for Comparison-Based Optimization* Isha Slavin\* and **Daniel McKenzie** (*submitted to SIURO*)
 
-`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/), **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
+`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* Qiuwei Li, **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
 
 `2021`*Curvature-Aware Derivative-Free Optimization* [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
 
 `2021` *Learn to predict equilibria via Fixed Point Networks*. [Howard Heaton](https://howardheaton.tech/) and **Daniel McKenzie**, Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
-`2020` *A one-bit, comparison-based gradient estimator.* HanQin Cai, **Daniel McKenzie**, Wotao Yin and Zhenliang Zhang (*alphabetical*).
+### Misc.
+
+`2022` *Learning to Optimize* SIAM News. Samy Wu Fung, **Daniel McKenzie**, Wotao Yin.
 
 
 ## Talks
@@ -189,6 +193,14 @@ All talks invited unless otherwise stated.
 `2018` [UGA MathCamp](https://torsor.github.io/mathcamp/). I mentored a group of five high school students on the "Monster Epidemiology" project.
 
 `2011-2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
+
+### Reviewing
+
+`2023` AAAI (x3).
+
+`2022` SIMODS, IEEE TNNLS, NeuRIPS (x2), ICML (x2).
+
+`2019` SODA.
 
 ## Skills
 
