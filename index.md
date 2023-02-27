@@ -6,7 +6,7 @@ title: Daniel McKenzie's CV
 Applied Math and ML.
 
 <div id="webaddress">
-<a href="mckenzie@math.ucla.edu">mckenzie@math.ucla.edu</a>
+<a href="mckenzie@math.ucla.edu">dmckenzie@mines.edu</a>
 | <a href="https://danielmckenzie.github.io">My web page</a>
 </div>
 
@@ -69,6 +69,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
+`2023` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* Information and Inference (*pending minor reivsions*) Qiuwei Li, **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
+
 `2022` *A one-bit, comparison-based gradient estimator.* ACHA. [HanQin Cai](https://hqcai.org/), **Daniel McKenzie**, [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin) and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) (*alphabetical*).
 
 `2021` *Balancing geometry and density: Path distances on high-dimensional data.* SIMODS. [Anna Little](https://www.anna-little.com/), **Daniel McKenzie**, and [James M. Murphy](https://jmurphy.math.tufts.edu/) (*alphabetical*).
@@ -89,15 +91,13 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Submitted
 
-`2022` *Adapting Zeroth Order Algorithms for Comparison-Based Optimization* Isha Slavin\* and **Daniel McKenzie** (*submitted to SIURO*)
-
-`2021` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* Qiuwei Li, **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
-
 `2021`*Curvature-Aware Derivative-Free Optimization* [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
 
 `2021` *Learn to predict equilibria via Fixed Point Networks*. [Howard Heaton](https://howardheaton.tech/) and **Daniel McKenzie**, Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
 ### Misc.
+
+`2023` *Adapting Zeroth Order Algorithms for Comparison-Based Optimization* Isha Slavin\* and **Daniel McKenzie** (*accepted to SIURO pending minor revisions*)
 
 `2022` *Learning to Optimize* SIAM News. Samy Wu Fung, **Daniel McKenzie**, Wotao Yin.
 
@@ -106,7 +106,11 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 All talks invited unless otherwise stated.
 
-`02/2023` Applied Math Seminar, UGA. Athens, USA.
+`02/2023` NIST AI COI Seminar. Boulder, USA.
+
+`02/2023` Emory CODES Seminar. Atlanta, USA.
+
+`02/2023` UGA Applied Math Seminar. Athens, USA.
 
 `09/2022` SIAM MDS: Manifold Learning and Dimensionality Reduction. San Diego, USA.
 
