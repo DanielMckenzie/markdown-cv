@@ -20,7 +20,7 @@ Applied Math and ML.
 
 ## Research interests
 
-Optimization and signal processing applied to machine learning and data science. More specifically: zeroth-order optimization and applications, implicit neural networks, data-driven metrics for unsupervised learning, and knowledge graphs.
+Optimization and signal processing applied to machine learning and data science. More specifically: zeroth-order optimization and applications, Learn-to-optimize, and data-driven metrics for unsupervised learning.
 
 
 ## Education
@@ -69,7 +69,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
-`2023` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* Information and Inference (*pending minor reivsions*) Qiuwei Li, **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
+`2023` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* Information and Inference.  Qiuwei Li, **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
 
 `2022` *A one-bit, comparison-based gradient estimator.* ACHA. [HanQin Cai](https://hqcai.org/), **Daniel McKenzie**, [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin) and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) (*alphabetical*).
 
@@ -91,13 +91,19 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Submitted
 
-`2021`*Curvature-Aware Derivative-Free Optimization* [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
+`2023` *It begins with a boundary: A geometric view on probabilistically robust learning* Leon Bungert, [Nicolás García Trillos](https://www.nicolasgarciat.com/), Matt Jacobs, **Daniel McKenzie**, Đorđe Nikolić, Qingsong Wang.
 
-`2021` *Learn to predict equilibria via Fixed Point Networks*. [Howard Heaton](https://howardheaton.tech/) and **Daniel McKenzie**, Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
+`2023` *Fermat Distances: Metric Approximation, Spectral Convergence, and Clustering Algorithms* , Nicolás García Trillos, Anna Little, **Daniel McKenzie**, and James Murphy.
+
+`2023` *Faster Predict-and-Optimize with Davis-Yin Splitting*, Daniel McKenzie, Samy Wu Fung, Howard Heaton. 
+
+`2023`*Curvature-Aware Derivative-Free Optimization* [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
+
+`2023` *Learn to predict equilibria via Fixed Point Networks*. [Howard Heaton](https://howardheaton.tech/) and **Daniel McKenzie**, Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
 ### Misc.
 
-`2023` *Adapting Zeroth Order Algorithms for Comparison-Based Optimization* Isha Slavin\* and **Daniel McKenzie** (*accepted to SIURO pending minor revisions*)
+`2023` *Adapting Zeroth Order Algorithms for Comparison-Based Optimization* Isha Slavin\* and **Daniel McKenzie** SIURO.
 
 `2022` *Learning to Optimize* SIAM News. Samy Wu Fung, **Daniel McKenzie**, Wotao Yin.
 
@@ -105,6 +111,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 ## Talks
 
 All talks invited unless otherwise stated.
+
+`06/2023` SIAM OP: Advances in optimization with Machine Learning. Seattle, USA.
 
 `02/2023` NIST AI COI Seminar. Boulder, USA.
 
@@ -139,6 +147,9 @@ All talks invited unless otherwise stated.
 `10/2018` AMS Central Sectional. Ann Arbor, USA.
 
 ## Teaching
+`2023` Math 332: Linear Algebra, Mines.
+
+`2023` Math 599: Analysis *(independent study)*. 
 
 `2023` Math 551: Computational Linear Algebra *(graduate level)*, Mines
 
@@ -178,6 +189,8 @@ All talks invited unless otherwise stated.
 
 ### Undergrad. Students Mentored
 
+`2023` Amandin Chyba Rabeendran (Mines --> NYU), Jordan Pettyjohn (Mines). 
+
 `2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.), Isha Slavin (UCLA --> NYU), Allen Zou (UCSD --> Lawrence Berkeley National Lab.).
 
 `2020` Mariam Alaverdian (Los Angeles Community College --> Yale), William Gilroy (Harvey Mudd), Veronica Kirgios (Notre Dame), Carolina Matuk (Univ. Iowa), Tachin Ruangkriengsin (UCLA--> Princeton), Charles Stoksik (UCLA), Chenglin Yang (UCLA --> Columbia), Allen Zou (UCSD).
@@ -200,7 +213,7 @@ All talks invited unless otherwise stated.
 
 ### Reviewing
 
-`2023` AAAI (x3).
+`2023` AAAI (x3), Neurips (x4).
 
 `2022` SIMODS, IEEE TNNLS, NeuRIPS (x2), ICML (x2).
 
