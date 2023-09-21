@@ -112,6 +112,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 All talks invited unless otherwise stated.
 
+`09/2023` U. Arizona Early Career Colloquium. Online
+
 `06/2023` SIAM OP: Advances in optimization with Machine Learning. Seattle, USA.
 
 `02/2023` NIST AI COI Seminar. Boulder, USA.
