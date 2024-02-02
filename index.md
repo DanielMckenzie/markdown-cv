@@ -111,6 +111,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 ## Talks
 
 All talks invited unless otherwise stated.
+`01/2024` CSU IDA Seminar. Fort Collins, USA.
 
 `09/2023` U. Arizona Early Career Colloquium. Online
 
@@ -183,6 +184,8 @@ All talks invited unless otherwise stated.
 
 ### Organization
 
+`2024` *Differentiating through fixed-points and applications* Session at INFORMS IOS.
+
 `2022` *Learning to Optimize and Optimizing to Learn.* Session at SIAM MDS.
 
 `2021` *Exploiting structure in zeroth-order optimization.* Workshop at INFORMS2021.
@@ -201,7 +204,9 @@ All talks invited unless otherwise stated.
 
 ### Graduate Students Mentored
 
-`2019-present` Howard Heaton, Bumsu Kim.
+`2022-present` Antony Sikorski (Mines), Brandon Knutson (Mines)
+
+`2019-2022` Howard Heaton (UCLA), Bumsu Kim (UCLA).
 
 ### Outreach
 
