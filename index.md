@@ -150,6 +150,8 @@ All talks invited unless otherwise stated.
 `10/2018` AMS Central Sectional. Ann Arbor, USA.
 
 ## Teaching
+`2024` Math 551: Computational Linear Algebra *(graduate level)*, Mine
+
 `2023` Math 332: Linear Algebra, Mines.
 
 `2023` Math 599: Analysis *(independent study)*. 
@@ -177,10 +179,11 @@ All talks invited unless otherwise stated.
 ## Service
 
 ### Committees
+`2024` *Linear Algebra Curriculum Redesign Committee*. Mines.
 
 `2023` *Graduate Computing Resource Committee* (chair). Mines.
 
-`2022` *CAM curriculum redesign committee.* Mines
+`2022` *CAM Curriculum Redesign Committee.* Mines
 
 ### Organization
 
