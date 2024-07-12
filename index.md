@@ -69,6 +69,10 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
+`2024` *Three-Operator Splitting for Learning to Predict Equilibria in Convex Games.* SIMODS. **Daniel McKenzie** and [Howard Heaton](https://howardheaton.tech/), Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
+
+`2024` *Fermat Distances: Metric Approximation, Spectral Convergence, and Clustering Algorithms.* JMLR. Nicolás García Trillos, Anna Little, **Daniel McKenzie**, and James Murphy (*alphabetical*).
+
 `2023` *From the simplex to the sphere: Faster constrained optimization using the Hadamard parametrization* Information and Inference.  Qiuwei Li, **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
 
 `2022` *A one-bit, comparison-based gradient estimator.* ACHA. [HanQin Cai](https://hqcai.org/), **Daniel McKenzie**, [Wotao Yin](https://en.wikipedia.org/wiki/Wotao_Yin) and [Zhenliang Zhang](https://scholar.google.com/citations?user=4uHZTJoAAAAJ&hl=en) (*alphabetical*).
@@ -91,15 +95,14 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Submitted
 
-`2023` *It begins with a boundary: A geometric view on probabilistically robust learning* Leon Bungert, [Nicolás García Trillos](https://www.nicolasgarciat.com/), Matt Jacobs, **Daniel McKenzie**, Đorđe Nikolić, Qingsong Wang.
+`2024` *Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data.* Antony Sikorski, Daniel McKenzie, Doug Nychka.  
 
-`2023` *Fermat Distances: Metric Approximation, Spectral Convergence, and Clustering Algorithms* , Nicolás García Trillos, Anna Little, **Daniel McKenzie**, and James Murphy.
+`2023` *It begins with a boundary: A geometric view on probabilistically robust learning* Leon Bungert, [Nicolás García Trillos](https://www.nicolasgarciat.com/), Matt Jacobs, **Daniel McKenzie**, Đorđe Nikolić, Qingsong Wang.
 
 `2023` *Faster Predict-and-Optimize with Davis-Yin Splitting*, Daniel McKenzie, Samy Wu Fung, Howard Heaton. 
 
 `2023`*Curvature-Aware Derivative-Free Optimization* [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
 
-`2023` *Learn to predict equilibria via Fixed Point Networks*. [Howard Heaton](https://howardheaton.tech/) and **Daniel McKenzie**, Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
 ### Misc.
 
@@ -111,6 +114,9 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 ## Talks
 
 All talks invited unless otherwise stated.
+
+`06/2024` LOL24 Workshop. Luminy, France
+
 `01/2024` CSU IDA Seminar. Fort Collins, USA.
 
 `09/2023` U. Arizona Early Career Colloquium. Online
