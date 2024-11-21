@@ -200,4 +200,3 @@ All talks invited unless otherwise stated.
 `2021` *Exploiting structure in zeroth-order optimization.* Workshop at INFORMS2021.
 
 `2020` *ZOOM: Zeroth Order Online Meeting.* (Online) mini-conference. -->
-
