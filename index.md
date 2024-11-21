@@ -110,7 +110,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2022` *Learning to Optimize* SIAM News. Samy Wu Fung, **Daniel McKenzie**, Wotao Yin.
 
-
+<!--
 ## Talks
 
 All talks invited unless otherwise stated.
@@ -235,7 +235,7 @@ All talks invited unless otherwise stated.
 
 `2022` SIMODS, IEEE TNNLS, NeuRIPS (x2), ICML (x2).
 
-`2019` SODA.
+`2019` SODA. -->
 
 ## Skills
 
