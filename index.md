@@ -69,6 +69,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
+`2024` *Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data.* STAT. Antony Sikorski, **Daniel McKenzie**, Doug Nychka.
+
 `2024` *Three-Operator Splitting for Learning to Predict Equilibria in Convex Games.* SIMODS. **Daniel McKenzie** and [Howard Heaton](https://howardheaton.tech/), Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
 `2024` *Fermat Distances: Metric Approximation, Spectral Convergence, and Clustering Algorithms.* JMLR. Nicolás García Trillos, Anna Little, **Daniel McKenzie**, and James Murphy (*alphabetical*).
@@ -95,7 +97,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Submitted
 
-`2024` *Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data.* Antony Sikorski, Daniel McKenzie, Doug Nychka.  
+`2024` *On logical extrapolation for mazes with recurrent and implicit networks* Brandon Knutson, Amandin Rabeendran, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Deniz-Behn, Samy Wu Fung, **Daniel McKenzie**
 
 `2023` *It begins with a boundary: A geometric view on probabilistically robust learning* Leon Bungert, [Nicolás García Trillos](https://www.nicolasgarciat.com/), Matt Jacobs, **Daniel McKenzie**, Đorđe Nikolić, Qingsong Wang.
 
