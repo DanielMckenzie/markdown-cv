@@ -41,6 +41,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ## Awards
 
+`2024` Features in Mines research magazine.
+
 `2021` Liggett Instructor Award.
 
 `2019` William Armor Wills Memorial Scholarship.
@@ -117,6 +119,10 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 All talks invited unless otherwise stated.
 
+`10/2024` SIAM MDS. Atlanta, USA.
+
+`07/2024` IMSI Workshop on Computational Imaging. Chicago, USA.
+
 `06/2024` LOL24 Workshop. Luminy, France
 
 `01/2024` CSU IDA Seminar. Fort Collins, USA.
@@ -130,6 +136,8 @@ All talks invited unless otherwise stated.
 `02/2023` Emory CODES Seminar. Atlanta, USA.
 
 `02/2023` UGA Applied Math Seminar. Athens, USA.
+
+`10/2022` George Mason University CMAI Colloquium. Fairfax, VA. 
 
 `09/2022` SIAM MDS: Manifold Learning and Dimensionality Reduction. San Diego, USA.
 
@@ -158,7 +166,7 @@ All talks invited unless otherwise stated.
 `10/2018` AMS Central Sectional. Ann Arbor, USA.
 
 ## Teaching
-`2024` Math 551: Computational Linear Algebra *(graduate level)*, Mine
+`2024` Math 551: Computational Linear Algebra *(graduate level)*, Mines
 
 `2023` Math 332: Linear Algebra, Mines.
 
@@ -204,6 +212,8 @@ All talks invited unless otherwise stated.
 `2020` *ZOOM: Zeroth Order Online Meeting.* (Online) mini-conference.
 
 ### Undergrad. Students Mentored 
+
+`2024` Cash Cherry, Aidan Eck, Sawyer Allen.
 
 `2023` Amandin Chyba Rabeendran (Mines --> NYU), Jordan Pettyjohn (Mines). 
 
