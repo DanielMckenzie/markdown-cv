@@ -13,7 +13,7 @@ Applied Math and ML.
 
 ## Positions
 
-`2022-present` __Colorado School of Mines__. Assistant Professor
+`2022--present` __Colorado School of Mines__. Assistant Professor
 
 `2019-2022`  __University of California, Los Angeles__. Assistant Adjunct Professor <!--(i.e. postdoc).-->
 
@@ -178,11 +178,11 @@ All talks invited unless otherwise stated.
 
 `2022` Math 332: Linear Algebra, Mines.
 
-`2021-2022` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(Taught twice. I also co-developed this course).*
+`2021--2022` Math 151BH: Honors Applied Numerical Methods II, UCLA. *(Taught twice. I also co-developed this course).*
 
-`2021-2022` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(Taught twice. I also co-developed this course).*
+`2021--2022` Math 151AH: Honors Applied Numerical Methods I, UCLA. *(Taught twice. I also co-developed this course).*
 
-`2020-2022` Math 118: Mathematical Methods of Data Theory, UCLA. *(Taught four times. I also co-developed this course).*
+`2020--2022` Math 118: Mathematical Methods of Data Theory, UCLA. *(Taught four times. I also co-developed this course).*
 
 `2020` Math 170S: Statistics, UCLA.
 
@@ -190,9 +190,9 @@ All talks invited unless otherwise stated.
 
 `2019` Math 32A: Calculus III, UCLA.
 
-`2015-2019` Math2250: Calculus I, UGA. *(taught three times).*
+`2015--2019` Math2250: Calculus I, UGA. *(taught three times).*
 
-`2014-2018` Math1113: Precalculus, UGA. *(taught six times).*
+`2014--2018` Math1113: Precalculus, UGA. *(taught six times).*
 
 ## Service
 
@@ -232,11 +232,11 @@ All talks invited unless otherwise stated.
 
 ### Graduate Students Mentored
 
-`2024-present` Ziyu Li (Mines).
+`2024--present` Ziyu Li (Mines).
 
-`2022-present` Antony Sikorski (Mines), Brandon Knutson (Mines)
+`2022--present` Antony Sikorski (Mines), Brandon Knutson (Mines)
 
-`2019-2022` Howard Heaton (UCLA), Bumsu Kim (UCLA).
+`2019--2022` Howard Heaton (UCLA), Bumsu Kim (UCLA).
 
 ### Outreach
 
@@ -246,11 +246,11 @@ All talks invited unless otherwise stated.
 
 `2018` [UGA MathCamp](https://torsor.github.io/mathcamp/). I mentored a group of five high school students on the "Monster Epidemiology" project.
 
-`2011-2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
+`2011--2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
 
 ### Reviewing
 
-`2024` ACHA, JMLR, TMLR, AAAI (x3), SIAM SISC (x2), SIAM OPT, ACHA, EJAM.
+`2024` ACHA, JMLR, TMLR, AAAI (x3), SIAM SISC (x2), SIAM OPT, EJAM.
 
 `2023` AAAI (x3), Neurips (x4).
 
