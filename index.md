@@ -39,9 +39,9 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 
 
-## Awards
+## Awards and Recognitions
 
-`2024` Features in Mines research magazine.
+`2024` Featured in Mines research magazine.
 
 `2021` Liggett Instructor Award.
 
@@ -71,6 +71,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
+`2024` *Differentiating through integer linear programs with quadratic regularization and Davis-Yin splitting* **Daniel McKenzie**, [Howard Heaton](https://howardheaton.tech/), [Samy Wu Fung](https://sites.google.com/site/samywufung/)
+
 `2024` *Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data.* STAT. Antony Sikorski, **Daniel McKenzie**, Doug Nychka.
 
 `2024` *Three-Operator Splitting for Learning to Predict Equilibria in Convex Games.* SIMODS. **Daniel McKenzie** and [Howard Heaton](https://howardheaton.tech/), Qiuwei Li, [Samy Wu Fung](https://sites.google.com/site/samywufung/), [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
@@ -99,11 +101,11 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Submitted
 
+`2025` *Fully Adaptive Zeroth-Order Method for Minimizing Functions with Compressible Gradients* [Geovani Nunes Grapiglia](https://scholar.google.com/citations?user=PwH5lDEAAAAJ&hl=pt-BR), **Daniel McKenzie**
+
 `2024` *On logical extrapolation for mazes with recurrent and implicit networks* Brandon Knutson, Amandin Rabeendran, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Deniz-Behn, Samy Wu Fung, **Daniel McKenzie**
 
 `2023` *It begins with a boundary: A geometric view on probabilistically robust learning* Leon Bungert, [Nicolás García Trillos](https://www.nicolasgarciat.com/), Matt Jacobs, **Daniel McKenzie**, Đorđe Nikolić, Qingsong Wang.
-
-`2023` *Faster Predict-and-Optimize with Davis-Yin Splitting*, Daniel McKenzie, Samy Wu Fung, Howard Heaton. 
 
 `2023`*Curvature-Aware Derivative-Free Optimization* [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
 
@@ -195,14 +197,19 @@ All talks invited unless otherwise stated.
 ## Service
 
 ### Committees
+`2024--present` *Graduate Committee*. Mines.
+
 `2024` *Linear Algebra Curriculum Redesign Committee*. Mines.
 
 `2023` *Graduate Computing Resource Committee* (chair). Mines.
+
+`2022--present` *Colloquium Committee*. Mines.
 
 `2022` *CAM Curriculum Redesign Committee.* Mines
 
 ### Organization
 
+`2024` *Sparse and Low Rank Methods for Unsupervised Learning* Session at SIAM MDS.
 `2024` *Differentiating through fixed-points and applications* Session at INFORMS IOS.
 
 `2022` *Learning to Optimize and Optimizing to Learn.* Session at SIAM MDS.
@@ -225,6 +232,8 @@ All talks invited unless otherwise stated.
 
 ### Graduate Students Mentored
 
+`2024-present` Ziyu Li (Mines).
+
 `2022-present` Antony Sikorski (Mines), Brandon Knutson (Mines)
 
 `2019-2022` Howard Heaton (UCLA), Bumsu Kim (UCLA).
@@ -241,13 +250,13 @@ All talks invited unless otherwise stated.
 
 ### Reviewing
 
-`2024` ACHA, JMLR.
+`2024` ACHA, JMLR, TMLR, AAAI (x3), SIAM SISC (x2), SIAM OPT, ACHA, EJAM.
 
 `2023` AAAI (x3), Neurips (x4).
 
 `2022` SIMODS, IEEE TNNLS, NeuRIPS (x2), ICML (x2).
 
-`2019` SODA. -->
+`2019` SODA.
 
 ## Skills
 
