@@ -168,6 +168,8 @@ All talks invited unless otherwise stated.
 `10/2018` AMS Central Sectional. Ann Arbor, USA.
 
 ## Teaching
+`2024` Math 500: Linear Spaces *(graduate level)*, Mines
+
 `2024` Math 551: Computational Linear Algebra *(graduate level)*, Mines
 
 `2023` Math 332: Linear Algebra, Mines.
