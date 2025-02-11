@@ -127,6 +127,8 @@ All talks invited unless otherwise stated.
 
 `06/2024` LOL24 Workshop. Luminy, France
 
+`03/2024` Becker Group Seminar, CU. Boulder, USA.
+
 `01/2024` CSU IDA Seminar. Fort Collins, USA.
 
 `09/2023` U. Arizona Early Career Colloquium. Online
@@ -210,8 +212,8 @@ All talks invited unless otherwise stated.
 `2022` *CAM Curriculum Redesign Committee.* Mines
 
 ### Organization
-
 `2024` *Sparse and Low Rank Methods for Unsupervised Learning* Session at SIAM MDS.
+
 `2024` *Differentiating through fixed-points and applications* Session at INFORMS IOS.
 
 `2022` *Learning to Optimize and Optimizing to Learn.* Session at SIAM MDS.
