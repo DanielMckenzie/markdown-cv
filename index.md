@@ -6,7 +6,7 @@ title: Daniel McKenzie's CV
 Applied Math and ML.
 
 <div id="webaddress">
-<a href="mckenzie@math.ucla.edu">dmckenzie@mines.edu</a>
+<a href="dmckenzie@mines.edu">dmckenzie@mines.edu</a>
 | <a href="https://danielmckenzie.github.io">My web page</a>
 </div>
 
@@ -71,7 +71,9 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
-`2024` *Differentiating through integer linear programs with quadratic regularization and Davis-Yin splitting* **Daniel McKenzie**, [Howard Heaton](https://howardheaton.tech/), [Samy Wu Fung](https://sites.google.com/site/samywufung/)
+`2025` *Curvature-Aware Derivative-Free Optimization*. Journal of Scientific Computing. [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
+
+`2024` *Differentiating through integer linear programs with quadratic regularization and Davis-Yin splitting*. TMLR. **Daniel McKenzie**, [Howard Heaton](https://howardheaton.tech/), [Samy Wu Fung](https://sites.google.com/site/samywufung/)
 
 `2024` *Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data.* STAT. Antony Sikorski, **Daniel McKenzie**, Doug Nychka.
 
@@ -107,8 +109,6 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 `2023` *It begins with a boundary: A geometric view on probabilistically robust learning* Leon Bungert, [Nicolás García Trillos](https://www.nicolasgarciat.com/), Matt Jacobs, **Daniel McKenzie**, Đorđe Nikolić, Qingsong Wang.
 
-`2023`*Curvature-Aware Derivative-Free Optimization* [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
-
 
 ### Misc.
 
@@ -120,6 +120,12 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 ## Talks
 
 All talks invited unless otherwise stated.
+
+`09/2025` Tufts CAM Seminar. Medford, MA, USA.
+
+`07/2025` ICCOPT. Los Angeles, USA.
+
+`06/2025` IISA Annual Meeting. Lincoln, NE, USA.
 
 `10/2024` SIAM MDS. Atlanta, USA.
 
@@ -170,7 +176,7 @@ All talks invited unless otherwise stated.
 `10/2018` AMS Central Sectional. Ann Arbor, USA.
 
 ## Teaching
-`2024` Math 500: Linear Spaces *(graduate level)*, Mines
+`2024--present` Math 500: Linear Spaces *(graduate level)*, Mines
 
 `2024` Math 551: Computational Linear Algebra *(graduate level)*, Mines
 
@@ -226,7 +232,7 @@ All talks invited unless otherwise stated.
 
 `2024` Cash Cherry, Aidan Eck, Sawyer Allen.
 
-`2023` Amandin Chyba Rabeendran (Mines --> NYU), Jordan Pettyjohn (Mines). 
+`2023` Amandin Chyba Rabeendran (Mines --> NYU), Jordan Pettyjohn (Mines --> Chicago). 
 
 `2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.), Isha Slavin (UCLA --> NYU), Allen Zou (UCSD --> Lawrence Berkeley National Lab.).
 
@@ -253,6 +259,8 @@ All talks invited unless otherwise stated.
 `2011--2012` [SHAWCO](https://en.wikipedia.org/wiki/SHAWCO). I tutored students, trained volunteers and co-led the KenSMART project.
 
 ### Reviewing
+
+`2025` Math Programming, Neurips (x6), TMLR (x2), AAAI (x4). 
 
 `2024` ACHA, JMLR, TMLR, AAAI (x3), SIAM SISC (x2), SIAM OPT, EJAM.
 
