@@ -230,9 +230,9 @@ All talks invited unless otherwise stated.
 
 ### Undergrad. Students Mentored 
 
-`2024` Cash Cherry, Aidan Eck, Sawyer Allen.
+`2024` Cash Cherry (Mines --> UCSB), Aidan Eck (Mines), Sawyer Allen (Mines).
 
-`2023` Amandin Chyba Rabeendran (Mines --> NYU), Jordan Pettyjohn (Mines --> Chicago). 
+`2023` Amandin Chyba Rabeendran (Mines --> NYU), Jordan Pettyjohn (Mines). 
 
 `2021` Yuchen Lou (Hong Kong Univ. --> Northwestern Univ.), Isha Slavin (UCLA --> NYU), Allen Zou (UCSD --> Lawrence Berkeley National Lab.).
 
@@ -242,7 +242,9 @@ All talks invited unless otherwise stated.
 
 ### Graduate Students Mentored
 
-`2024--present` Ziyu Li (Mines).
+`2024--2025` Jordan Pettyjohn (_MS_, Mines --> Chicago). Kate Raitz _MS_ (Mines).
+
+`2024--present` Ziyu Li (Mines), Colin Fenster (_MS_, Mines).
 
 `2022--present` Antony Sikorski (Mines), Brandon Knutson (Mines)
 
