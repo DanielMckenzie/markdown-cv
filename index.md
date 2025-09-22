@@ -71,6 +71,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
+`2025` *Fully Adaptive Zeroth-Order Method for Minimizing Functions with Compressible Gradients*. Journal of Optimization Theory and Applications. [Geovani Nunes Grapiglia](https://scholar.google.com/citations?user=PwH5lDEAAAAJ&hl=pt-BR), **Daniel McKenzie**
+
 `2025` *Curvature-Aware Derivative-Free Optimization*. Journal of Scientific Computing. [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
 
 `2024` *Differentiating through integer linear programs with quadratic regularization and Davis-Yin splitting*. TMLR. **Daniel McKenzie**, [Howard Heaton](https://howardheaton.tech/), [Samy Wu Fung](https://sites.google.com/site/samywufung/)
@@ -102,8 +104,6 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 `2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, **Daniel McKenzie**, Tachin Ruangkriengsin\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi) (*alphabetical*).
 
 ### Submitted
-
-`2025` *Fully Adaptive Zeroth-Order Method for Minimizing Functions with Compressible Gradients* [Geovani Nunes Grapiglia](https://scholar.google.com/citations?user=PwH5lDEAAAAJ&hl=pt-BR), **Daniel McKenzie**
 
 `2024` *On logical extrapolation for mazes with recurrent and implicit networks* Brandon Knutson, Amandin Rabeendran, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Deniz-Behn, Samy Wu Fung, **Daniel McKenzie**
 
