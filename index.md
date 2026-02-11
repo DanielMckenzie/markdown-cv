@@ -71,7 +71,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
-`2025` *Fully Adaptive Zeroth-Order Method for Minimizing Functions with Compressible Gradients*. Journal of Optimization Theory and Applications. [Geovani Nunes Grapiglia](https://scholar.google.com/citations?user=PwH5lDEAAAAJ&hl=pt-BR), **Daniel McKenzie**
+`2026` *Fully Adaptive Zeroth-Order Method for Minimizing Functions with Compressible Gradients*. Journal of Optimization Theory and Applications. [Geovani Nunes Grapiglia](https://scholar.google.com/citations?user=PwH5lDEAAAAJ&hl=pt-BR), **Daniel McKenzie**
 
 `2025` *Curvature-Aware Derivative-Free Optimization*. Journal of Scientific Computing. [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
 
@@ -97,6 +97,11 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Conferences
 
+`2026` *LatticeVision: Image to Image Networks for Modeling
+Non-Stationary Spatial Data* AISTATS 2026 (~25% acceptance rate). Antony Sikorski, Michael Ivanitskiy,, Nathan Lenssen, Douglas Nychka, **Daniel McKenzie**.
+
+`2026` *On logical extrapolation for mazes with recurrent and implicit networks.* AAAI 2026 (oral presentation, top ~5% of submissions). Brandon Knutson, Amandin Rabeendran, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Deniz-Behn, Samy Wu Fung, **Daniel McKenzie**
+
 `2022` *JFB: Jacobian-Free Backpropagation for Implicit Networks.* AAAI 2022 (15% acceptance rate). [Samy Wu Fung](https://swufung.github.io/), [Howard Heaton](https://research.typal.llc/), [Qiuwei Li](https://www.math.ucla.edu/~qiuweili/), **Daniel McKenzie**, [Stanley Osher](https://en.wikipedia.org/wiki/Stanley_Osher) and Wotao Yin.
 
 `2021` *A zeroth-order, block coordinate descent algorithm for huge-scale black-box optimization.* ICML 2021 (22% acceptance rate). HanQin Cai, Yuchen Lou\*, **Daniel McKenzie**, and Wotao Yin (*alphabetical*).
@@ -104,8 +109,6 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 `2020` *Who killed Lilly Kane? A case study in applying knowledge graphs to crime fiction.* IEEE Big Data GTA3 Workshop. With Mariam Alaverdian\*, William Gilroy\*, Veronica Kirgios\*, Xia Li, Carolina Matuk\*, **Daniel McKenzie**, Tachin Ruangkriengsin\*, [P. Jeffrey Brantingham](http://paleo.sscnet.ucla.edu/) and [Andrea Bertozzi](https://en.wikipedia.org/wiki/Andrea_Bertozzi) (*alphabetical*).
 
 ### Submitted
-
-`2024` *On logical extrapolation for mazes with recurrent and implicit networks* Brandon Knutson, Amandin Rabeendran, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Deniz-Behn, Samy Wu Fung, **Daniel McKenzie**
 
 `2023` *It begins with a boundary: A geometric view on probabilistically robust learning* Leon Bungert, [Nicolás García Trillos](https://www.nicolasgarciat.com/), Matt Jacobs, **Daniel McKenzie**, Đorđe Nikolić, Qingsong Wang.
 
@@ -120,6 +123,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 ## Talks
 
 All talks invited unless otherwise stated.
+
+`11/2025` Lehigh ISE Seminar. Bethlehem, PA, USA.
 
 `09/2025` Tufts CAM Seminar. Medford, MA, USA.
 
@@ -178,9 +183,9 @@ All talks invited unless otherwise stated.
 ## Teaching
 `2024--present` Math 500: Linear Spaces *(graduate level)*, Mines
 
-`2024` Math 551: Computational Linear Algebra *(graduate level)*, Mines
+`2024--present` Math 551: Computational Linear Algebra *(graduate level)*, Mines
 
-`2023` Math 332: Linear Algebra, Mines.
+`2023, 2026` Math 332: Linear Algebra, Mines.
 
 `2023` Math 599: Analysis *(independent study)*. 
 
@@ -207,6 +212,8 @@ All talks invited unless otherwise stated.
 ## Service
 
 ### Committees
+`2026` *TPD Hiring committee*. Mines
+
 `2024--present` *Graduate Committee*. Mines.
 
 `2024` *Linear Algebra Curriculum Redesign Committee*. Mines.
@@ -230,6 +237,8 @@ All talks invited unless otherwise stated.
 
 ### Undergrad. Students Mentored 
 
+`2026` Anna Haemer (Mines)
+
 `2024` Cash Cherry (Mines --> UCSB), Aidan Eck (Mines), Sawyer Allen (Mines).
 
 `2023` Amandin Chyba Rabeendran (Mines --> NYU), Jordan Pettyjohn (Mines). 
@@ -241,6 +250,8 @@ All talks invited unless otherwise stated.
 `2018` Lucas Connell (UGA).
 
 ### Graduate Students Mentored
+
+`2026` Adam Martin (_MS_, Mines)
 
 `2024--2025` Jordan Pettyjohn (_MS_, Mines --> Chicago). Kate Raitz _MS_ (Mines).
 
@@ -262,7 +273,7 @@ All talks invited unless otherwise stated.
 
 ### Reviewing
 
-`2025` Math Programming, Neurips (x6), TMLR (x2), AAAI (x4). 
+`2025` Math Programming, Neurips (x6), TMLR (x2), AAAI (x4) AISTATS (x3). 
 
 `2024` ACHA, JMLR, TMLR, AAAI (x3), SIAM SISC (x2), SIAM OPT, EJAM.
 
