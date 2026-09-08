@@ -71,6 +71,8 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 
 ### Journals
 
+`2026` *It begins with a boundary: A geometric view on probabilistically robust learning.* ESAIM: COCV. Leon Bungert, [Nicolás García Trillos](https://www.nicolasgarciat.com/), Matt Jacobs, **Daniel McKenzie**, Đorđe Nikolić, Qingsong Wang.  
+
 `2026` *Fully Adaptive Zeroth-Order Method for Minimizing Functions with Compressible Gradients*. Journal of Optimization Theory and Applications. [Geovani Nunes Grapiglia](https://scholar.google.com/citations?user=PwH5lDEAAAAJ&hl=pt-BR), **Daniel McKenzie**
 
 `2025` *Curvature-Aware Derivative-Free Optimization*. Journal of Scientific Computing. [Bumsu Kim](https://www.bumsu.kim/), **Daniel McKenzie**, HanQin Cai and Wotao Yin.
@@ -98,7 +100,7 @@ __University of Cape Town, South Africa.__ B.Sc *(with distinction)*
 ### Conferences
 
 `2026` *LatticeVision: Image to Image Networks for Modeling
-Non-Stationary Spatial Data* AISTATS 2026 (~25% acceptance rate). Antony Sikorski, Michael Ivanitskiy,, Nathan Lenssen, Douglas Nychka, **Daniel McKenzie**.
+Non-Stationary Spatial Data* AISTATS 2026 (~25% acceptance rate). Antony Sikorski, Michael Ivanitskiy, Nathan Lenssen, Douglas Nychka, **Daniel McKenzie**.
 
 `2026` *On logical extrapolation for mazes with recurrent and implicit networks.* AAAI 2026 (oral presentation, top ~5% of submissions). Brandon Knutson, Amandin Rabeendran, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Deniz-Behn, Samy Wu Fung, **Daniel McKenzie**
 
@@ -110,7 +112,11 @@ Non-Stationary Spatial Data* AISTATS 2026 (~25% acceptance rate). Antony Sikorsk
 
 ### Submitted
 
-`2023` *It begins with a boundary: A geometric view on probabilistically robust learning* Leon Bungert, [Nicolás García Trillos](https://www.nicolasgarciat.com/), Matt Jacobs, **Daniel McKenzie**, Đorđe Nikolić, Qingsong Wang.
+`2026` *Gradient-Free Optimization for Matrix Functions.* Sawyer Allen\*, Cash Cherry\*, Aidan Eck\*, [Stephen Becker](https://amath.colorado.edu/faculty/becker/), **Daniel McKenzie**. [arXiv:2609.03170](https://arxiv.org/abs/2609.03170).
+
+`2026` *Interpreting Language Model Hidden States at Scale.* Jordan Pettyjohn, Mansi Sakarvadia, Nathaniel Hudson, **Daniel McKenzie**, Kyle Chard, Ian Foster. [arXiv:2608.10260](https://arxiv.org/abs/2608.10260).
+
+`2026` *A Non-stationary, Amortized, Transfer Learning Approach for Modeling Italian Air Quality.* Alessandro Fusta Moro, Antony Sikorski, **Daniel McKenzie**, Alessandro Fassò, Douglas Nychka. [arXiv:2604.18823](https://arxiv.org/abs/2604.18823).
 
 
 ### Misc.
@@ -123,6 +129,10 @@ Non-Stationary Spatial Data* AISTATS 2026 (~25% acceptance rate). Antony Sikorsk
 ## Talks
 
 All talks invited unless otherwise stated.
+
+`06/2026` SIAM OPT. Edinburgh, UK.
+
+`05/2026` CIROH DevCon. Salt Lake City, UT, USA.
 
 `11/2025` Lehigh ISE Seminar. Bethlehem, PA, USA.
 
@@ -212,6 +222,9 @@ All talks invited unless otherwise stated.
 ## Service
 
 ### Committees
+
+`2026` *Research Council*. Mines 
+
 `2026` *TPD Hiring committee*. Mines
 
 `2024--present` *Graduate Committee*. Mines.
@@ -239,7 +252,7 @@ All talks invited unless otherwise stated.
 
 `2026` Anna Haemer (Mines)
 
-`2024` Cash Cherry (Mines --> UCSB), Aidan Eck (Mines), Sawyer Allen (Mines).
+`2024--present` Cash Cherry (Mines --> UCSB), Aidan Eck (Mines), Sawyer Allen (Mines).
 
 `2023` Amandin Chyba Rabeendran (Mines --> NYU), Jordan Pettyjohn (Mines). 
 
@@ -279,7 +292,7 @@ All talks invited unless otherwise stated.
 
 `2023` AAAI (x3), Neurips (x4).
 
-`2022` SIMODS, IEEE TNNLS, NeuRIPS (x2), ICML (x2).
+`2022` SIMODS, IEEE TNNLS, Neurips (x2), ICML (x2).
 
 `2019` SODA.
 

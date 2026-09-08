@@ -1,2 +1,3 @@
 markdown:   kramdown
 style:  davewhipp
+exclude: [private_cv.md, private_cv.pdf, build-pdf.sh, README.md]

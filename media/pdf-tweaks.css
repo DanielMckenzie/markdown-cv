@@ -1,0 +1,17 @@
+/* Extra rules used only by build-pdf.sh (loaded after the print stylesheet). */
+@page {
+  size: letter;
+  margin: 0.6in 0.5in 0.7in 0.5in;
+}
+
+/* The pale grey of the print stylesheet is hard to read on paper. */
+code, #webaddress { color: #888; }
+h3 { color: #888; }
+
+/* Keep entries and headings from splitting across pages. */
+p, li { break-inside: avoid; }
+h1, h2, h3 { break-after: avoid; }
+h2 { break-before: auto; }
+
+/* Never let a lone heading sit at the bottom of a page. */
+h2 + p, h3 + p, h2 + h3 { break-before: avoid; }
